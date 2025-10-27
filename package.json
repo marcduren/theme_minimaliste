@@ -1,0 +1,21 @@
+{
+  "name": "theme-minimaliste",
+  "displayName": "theme-minimaliste",
+  "description": "Couleurs minimales",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "MD Minimaliste",
+        "uiTheme": "vs",
+        "path": "./themes/MD Minimaliste-color-theme.json"
+      }
+    ]
+  }
+}
