@@ -2,7 +2,8 @@
   "name": "theme-minimaliste",
   "displayName": "theme-minimaliste",
   "description": "Couleurs minimales",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "publisher": "marc-duren",
   "engines": {
     "vscode": "^1.105.0"
   },
@@ -17,5 +18,8 @@
         "path": "./themes/MD Minimaliste-color-theme.json"
       }
     ]
+  },"repository": {
+    "type": "git",
+    "url": "https://github.com/marcduren/theme_minimaliste"
   }
 }
