@@ -2,7 +2,7 @@
   "name": "theme-minimaliste",
   "displayName": "theme-minimaliste",
   "description": "Couleurs minimales",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "publisher": "marc-duren",
   "engines": {
     "vscode": "^1.105.0"
